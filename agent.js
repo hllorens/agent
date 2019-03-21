@@ -9,12 +9,59 @@ var go=function(txt){
 
 
 var process=function(txt){
+    return nlp(txt);
     if(commands.hasOwnProperty(txt.toLowerCase().trim())){
         return commands[txt];
     }else{
         return "no entiendo";
     }
 }
+
+// from firebase we retrieve the user object
+var user={
+    // id phone
+    name: "",
+    phone: "666666666",
+    state: "first-time",
+    pair: ""
+}
+
+
+var nlp=function(txt){
+    var answer="que qué?";
+    switch(user.state){
+        case "first-time":
+            if(user.name==""){
+                answer="Hola! antes de nada, cómo te llamas?";
+                user.state="get_name";
+            }else if(user.pair==""){
+                answer="para jugar en la liga necesito que me digas el teléfono de tu pareja en dígitos e.g., 669931087";
+                user.state="get_pair";
+            }
+            break;
+        case "get_name":
+            user.name=txt.replace(/(claro|hola|((mi|el) )?nombre|es|me llamo)/g,"");
+            answer="Encantado "+user.name+". Para jugar en la liga necesito que me digas el teléfono de tu pareja en dígitos e.g., 669931087";
+            user.state="get_pair";
+            break;
+        case "get_pair":
+            user.pair=""+txt.replace(/\b(claro|hola|mi|el|teléfono|móvil|número|pareja|compañero|es)\b/g,"").trim();
+            if(user.pair==user.phone){
+                answer="Has puesto tu propio teléfono... quieres jugar contigo mismo? Aún no tenemos esa modalidad... supongo que ha sido un error. Necesito que me digas el teléfono de tu pareja en dígitos e.g., 669931087"
+                user.pair="";
+                user.state="get_pair";
+           }else{
+                // mejor pillar los dígitos seguidos y deben ser 9 o +11 con código de país, si no lo tiene se lo añdimos para estandarizar
+                answer="Apunto \""+user.pair+"\" como tu compañero";
+                user.state="first-time";
+            }
+            break;
+        default:
+            break;
+    }
+    return answer;
+}
+
 
 var commands= {
 "hola": "Â¡Hola! Bienvenido a *Weeplay* ðŸ‘‹ðŸ‘‹   - Escribe *reservar* si quieres reservar una pista completa - Escribe *liga* si quieres apuntarte a uno de nuestros torneos de pÃ¡del - Escribe *buscar* si quieres buscar rivales o pareja ideal - Escribe *clases* si quieres recibir clases de pÃ¡del o tenis",

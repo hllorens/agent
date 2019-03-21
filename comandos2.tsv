@@ -1,0 +1,122 @@
+Comando	Respuesta
+Hola/Quiero/Hola,	¡Hola! Bienvenido a *Weeplay* 👋👋   - Escribe *reservar* si quieres reservar una pista completa - Escribe *liga* si quieres apuntarte a uno de nuestros torneos de pádel - Escribe *buscar* si quieres buscar rivales o pareja ideal - Escribe *clases* si quieres recibir clases de pádel o tenis
+p	¡Genial👍!  ¿En qué centro deportivo quieres jugar?   - *ph*: Centro deportivo La Hípica - *ps*: SUMA Fitness Club Alfafar  - *po*: Complejo deportivo Orriols  - *pp*: SUMA Fitness Club Patacona - *pt*: Boix Team Tennis - *pn*: Atalanta Ronda Norte  - *pi*: ¿Dónde se encuentran estos polideportivos?
+t	¡Genial👍!  ¿En qué centro deportivo quieres jugar?   - *th*: Centro deportivo La Hípica  - *ts*: SUMA Fitness Club Alfafar  - *to*: Complejo deportivo Orriols - *tt*: Boix Team Tennis  - *ti*: ¿Dónde se encuentran estos polideportivos?
+Default	Lo siento, no te he entendido... 🙄 Soy un robot 🤖 y aún estoy aprendiendo.  Escribe sólo las palabras en *negrita*.  Las preguntas, a través de 👇  Correo: info@weeplay.chat Instagram: @weeplay.chat
+ph	¡Perfecto! 👏 ¿Qué deseas sobre el Centro deportivo la Hípica?   - *phi*: Información  - *phr*: Reservar pista de Pádel
+ps	¡Perfecto! 👏 ¿Qué deseas sobre SUMA Fitness Club Alfafar?   - *psi*: Información  - *psr*: Reservar pista de Pádel 
+po	¡Perfecto! 👏 ¿Qué deseas sobre el Complejo deportivo Orriols?   - *poi*: Información  - *por*: Reservar pista de Pádel 
+pp	¡Perfecto! 👏 ¿Qué deseas sobre SUMA Fitness Club Patacona?   - *ppi*: Información  - *ppr*: Reservar pista de Pádel 
+pi	Mapa de los centros deportivos:  https://drive.google.com/open?id=1Tl1Bb9z6Yk_L7xI-nKnKHz9s2wLVNSSE&usp=sharing  Entonces...¿Cuál te viene mejor? 🤔  - *ph*: Centro deportivo La Hípica - *ps*: SUMA Fitness Club Alfafar  - *po*: Complejo deportivo Orriols  - *pp*: SUMA Fitness Club Patacona - *pt*: Boix Team Tennis - *pn*: Atalanta Ronda Norte
+th	¡Perfecto! 👏 ¿Qué deseas sobre el Centro deportivo la Hípica?   - *thi*: Información  - *thr*: Reservar pista de Tenis 
+ts	¡Perfecto! 👏 ¿Qué deseas sobre SUMA Fitness Club Alfafar?   - *tsi*: Información  - *tsr*: Reservar pista de Tenis 
+to	¡Perfecto! 👏 ¿Qué deseas sobre el Complejo deportivo Orriols?   - *toi*: Información  - *tor*: Reservar pista de Tenis 
+ti	Mapa de los centros deportivos:  https://drive.google.com/open?id=1tTCnBscQ31YbAlwuU_n9n2AHmXMKWX67&usp=sharing  Entonces...¿Cuál te viene mejor? 🤔  - *th*: Centro deportivo La Hípica  - *ts*: SUMA Fitness Club Alfafar  - *to*: Complejo deportivo Orriols - *tt*: Boix Team Tennis
+phi	- Nº: 4 pistas - Tipo: Cemento - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *phr*: Sí, me interesa - *p*: No, no me convence este centro 
+psi	- Nº: 10 pistas - Tipo: Cristal - Entorno: Exterior y cubierto  Tras esta información, te interesa jugar aquí?   - *psr*: Sí, me interesa - *p*: No, no me convence este centro 
+poi	- Nº: 4 pistas - Tipo: Cristal - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *por*: Sí, me interesa - *p*: No, no me convence este centro 
+ppi	- Nº: 4 pistas - Tipo: Cemento - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *ppr*: Sí, me interesa - *p*: No, no me convence este centro 
+thi	- Nº: 3 pistas - Tipo: Cesped artificial - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *thr*: Sí, me interesa - *t*: No, no me convence este centro  
+tsi	- Nº: 2 pistas - Tipo: Cemento - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *tsr*: Sí, me interesa - *t*: No, no me convence este centro
+toi	- Nº: 3 pistas - Tipo: Cemento - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *tor*: Sí, me interesa - *t*: No, no me convence este centro 
+phd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+psd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+pod	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+ppd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+thd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+tsd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+tod	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+si	¿Quieres confirmar?  - *s*: Sí, reservame la pista - *n*: Ya jugaré en otro momento
+no	Lo siento, no está disponible 😔  - *reservar*: Hablar a Weeplay para encontrar otras opciones - *n*: Ya jugaré en otro momento
+s	Gracias por confirmar!!  Paga en la pista a nombre de *Weeplay*, disfruta de la partida y te esperamos pronto por aquí 👋  - Recuerda mandar *hola* la siguiente vez que quieras reservar una pista - Si quieres cancelar la partida, escribe *cancelar*
+n	Gracias por utilizar *Weeplay* 😎  Recuerda mandar *hola* la siguiente vez que quieras reservar una pista
+phr	Escribe "phd+nombre+día+hora reserva" 👇  Ejemplo: *phd Javier Pérez 20 noviembre 17:00*
+psr	Escribe "psd+nombre+día+hora reserva" 👇  Ejemplo: *psd Javier Pérez 20 noviembre 17:00*
+por	Escribe "pod+nombre+día+hora reserva" 👇  Ejemplo: *pod Javier Pérez 20 noviembre 17:00*
+ppr	Escribe "ppd+nombre+día+hora reserva" 👇  Ejemplo: *ppd Javier Pérez 20 noviembre 17:00*
+thr	Escribe "thd+nombre+día+hora reserva" 👇  Ejemplo: *thd Javier Pérez 20 noviembre 17:00*
+tsr	Escribe "tsd+nombre+día+hora reserva" 👇  Ejemplo: *tsd Javier Pérez 20 noviembre 17:00*
+tor	Escribe "tod+nombre+día+hora reserva" 👇  Ejemplo: *tod Javier Pérez 20 noviembre 17:00*
+Cancelar	Tu reserva ya ha sido cancelada.  Recuerda mandar *hola* la siguiente vez que quieras reservar una pista 🙂
+Reserva PHR	963 615 363 -
+Reserva PSR	http://www.sumapadelalfafar.com/Booking/Grid.aspx 
+Reserva POR	963 650 564 - 
+Reserva PPR	963 205 180 - 
+Reserva THR	963 615 363 -
+Reserva TSR	http://www.sumapadelalfafar.com/Booking/Grid.aspx 
+Reserva TOR	963 650 564 - 
+pt	¡Perfecto! 👏 ¿Qué deseas sobre el Boix Team Tennis?   - *pti*: Información  - *ptr*: Reservar pista de Pádel
+pm	¡Perfecto! 👏 ¿Qué deseas sobre el Polideportivo Malilla?   - *pmi*: Información  - *pmr*: Reservar pista de Pádel
+pb	¡Perfecto! 👏 ¿Qué deseas sobre el Polideportivo Beteró?   - *pbi*: Información  - *pbr*: Reservar pista de Pádel
+pn	¡Perfecto! 👏 ¿Qué deseas sobre Atalanta Ronda Norte?   - *pni*: Información  - *pnr*: Reservar pista de Pádel
+pc	¡Perfecto! 👏 ¿Qué deseas sobre el Centro Deportivo Moncada?   - *pci*: Información  - *pcr*: Reservar pista de Pádel
+pa	¡Perfecto! 👏 ¿Qué deseas sobre Pádel Indoor Albalat?   - *pai*: Información  - *par*: Reservar pista de Pádel
+pz	¡Perfecto! 👏 ¿Qué deseas sobre el Complejo Deportivo La Canaleta?   - *pzi*: Información  - *pzr*: Reservar pista de Pádel
+pq	¡Perfecto! 👏 ¿Qué deseas sobre el Polideportivo Quatre Carreres?   - *pqi*: Información  - *pqr*: Reservar pista de Pádel
+tt	¡Perfecto! 👏 ¿Qué deseas sobre el Boix Team Tennis?   - *tti*: Información  - *ttr*: Reservar pista de Tenis
+tz	¡Perfecto! 👏 ¿Qué deseas sobre el Complejo Deportivo La Canaleta?   - *tzi*: Información  - *tzr*: Reservar pista de Tenis
+tp	
+pti	- Nº: 2 pistas - Tipo: Cristal - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *ptr*: Sí, me interesa - *p*: No, no me convence este centro 
+pmi	- Nº: 4 pistas - Tipo: Cristal - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *pmr*: Sí, me interesa - *p*: No, no me convence este centro 
+pbi	- Nº: 5 pistas - Tipo: Cristal - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *pbr*: Sí, me interesa - *p*: No, no me convence este centro 
+pni	- Nº: 7 pistas - Tipo: Cristal - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *pnr*: Sí, me interesa - *p*: No, no me convence este centro 
+pci	- Nº: 4 pistas - Tipo: Cristal - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *pcr*: Sí, me interesa - *p*: No, no me convence este centro 
+pai	- Nº: 4 pistas - Tipo: Cristal - Entorno: Cubierto  Tras esta información, te interesa jugar aquí?   - *par*: Sí, me interesa - *p*: No, no me convence este centro 
+pzi	- Nº: 2 pistas - Tipo: Cristal - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *pzr*: Sí, me interesa - *p*: No, no me convence este centro 
+pqi	- Nº: 4 pistas - Tipo: Cristal - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *pqr*: Sí, me interesa - *p*: No, no me convence este centro 
+tti	- Nº: 3 pistas - Tipo: Cemento - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *ttr*: Sí, me interesa - *t*: No, no me convence este centro 
+tzi	- Nº: 3 pistas - Tipo: Cemento - Entorno: Exterior  Tras esta información, te interesa jugar aquí?   - *tzr*: Sí, me interesa - *t*: No, no me convence este centro 
+tpi	
+ptd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+pmd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+pbd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+pnd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+pcd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+pad	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+pzd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+pqd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+ttd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+tzd	Perfecto!! Estamos comprobando la disponibilidad de la pista 😉
+tpd	
+ptr	Escribe "ptd+nombre+día+hora reserva" 👇  Ejemplo: *ptd Javier Pérez 20 noviembre 17:00*
+pmr	Escribe "pmd+nombre+día+hora reserva" 👇  Ejemplo: *pmd Javier Pérez 20 noviembre 17:00*
+pbr	Escribe "pbd+nombre+día+hora reserva" 👇  Ejemplo: *pbd Javier Pérez 20 noviembre 17:00*
+pnr	Escribe "pnd+nombre+día+hora reserva" 👇  Ejemplo: *pnd Javier Pérez 20 noviembre 17:00*
+pcr	Escribe "pcd+nombre+día+hora reserva" 👇  Ejemplo: *pcd Javier Pérez 20 noviembre 17:00*
+par	Escribe "pad+nombre+día+hora reserva" 👇  Ejemplo: *pad Javier Pérez 20 noviembre 17:00*
+pzr	Escribe "pzd+nombre+día+hora reserva" 👇  Ejemplo: *pzd Javier Pérez 20 noviembre 17:00*
+pqr	Escribe "pqd+nombre+día+hora reserva" 👇  Ejemplo: *pqd Javier Pérez 20 noviembre 17:00*
+ttr	Escribe "ttd+nombre+día+hora reserva" 👇  Ejemplo: *ttd Javier Pérez 20 noviembre 17:00*
+tzr	Escribe "tzd+nombre+día+hora reserva" 👇  Ejemplo: *tzd Javier Pérez 20 noviembre 17:00*
+tpr	
+RESERVA PTR	699301601 -
+RESERVA PMR	960018776 -
+RESERVA PBR	963389086 -
+RESERVA PNR	963489531 -
+RESERVA PCR	962060336 -
+RESERVA PAR	638886755 -
+RESERVA PZR	962110054 -
+RESERVA PQR	678808902 / 962112806
+RESERVA TTR	699301601 -
+RESERVA TZR	962110054 -
+RESERVA TPR	963372625
+liga	Bienvenido a las ligas de pádel que organiza *Weeplay* 🏆 Para más información escribe " *info* "
+info	Estamos organizando en Valencia ligas por niveles con el fin de mejorar tu nivel 🔝 y conocer gente nueva 🤝 Se jugará en los polideportivos de Patacona, Orriols y Alfafar, en los días que a ti y a tu pareja os venga bien. La inscripción es gratuita, solo se paga la pista. En este link teneis las bases de la competición.  https://docs.google.com/document/d/1aakXaVbzB9A1yYnxNb_2Vkl2GfCquaV54bsOPV8qnTs/edit?usp=sharing  Si te interesa, apúntate con tu pareja escribiendo: *inscripción* + nombres + vuestro nivel de pareja
+inscripcion / inscripción	Gracias por inscribirte!! para finalizar la inscripción sigue nuestra cuenta de instagram @weeplay.chat y dinos el nombre de la pareja para identificaros. 
+weeplay	😎 El futuro gestor de espacios deportivos 😎
+Buscar	Bienvenido a *Weeplay* 👋👋  ¿Buscas uno, dos o tres jugadores para completar una partida de pádel?  Dinos cuál es tu situación:  *A*- Estoy solo y busco pareja ideal *B*- Somos una pareja y buscamos 2 rivales *C*- Buscamos un jugador para completar la partida
+B/C/D/E	De acuerdo, en breves te atenderá un operador humano 👨‍💻
+A admin	Esta solo y busca pareja ideal
+B admin	Son pareja y buscan 2 rivales
+C admin	Busca un jugador para completar la partida
+Reservar	¿Quieres reservar una pista? 🎾   - Escribe " *P* " si quieres jugar a Pádel - Escribe " *T* " si quieres jugar a Tenis
+Gracias	Gracias a ti por comprender mi funcionamiento 🤖 Si quieres volver a utilizar *Weeplay* tan solo salúdame escribiendo *hola* 👋 
+clases	Bienvenido a *Weeplay* 👋👋  Vamos a buscar las mejores clases para ti 😉  - Ecribe *D* si buscas clases de Pádel  - Escribe *E* si buscas clases de Tenis
+D admin	Busca clases particulares de pádel
+E admin	Busca clases particulares de tenis
+A 	Veo que estás en busca de tu pareja ideal...🧐 Si me respondes a las siguientes preguntas trataré de buscarte una lo más pronto posible!!
+A	¿Cuántos años tienes? (Escribe sólo el *número*)
+nº	Escribe " *h* " si quieres que tu pareja sea hombre 🧔, " *m* " si quieres que sea mujer 👩 o " *i* " si te es indiferente 🤷‍♂️
+h/m/i	¿En qué lado prefieres jugar? 🤔  - *izquierdo* - *derecho* - *indiferente*
+izquierdo/derecho /indiferente	¿Qué nivel tienes? 👇  - *Principiante*: 1,0 – 2,0 - *Aficionado*: 2,25 – 3,0 - *Amateur*: 3,25 – 3,5 - *Avanzado*: 3,75 – 4,0 - *Perfeccionamiento*: 4,25 – 4,5 - *Experto*: 4,75 – 5,5 
+PrincipianteAficionado/ Amateur/Avanzado/ Perfeccionamiento /Experto	¡Genial! Ya hemos terminado 👌 Te avisaremos cuando la encontremos 😉
